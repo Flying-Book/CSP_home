@@ -2,7 +2,6 @@
 layout: home
 search_exclude: true
 ---
-## Anusha's Nighthawk Coders Home
 Hello! Welcome!
 ### About the Author
 
