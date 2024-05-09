@@ -14,10 +14,10 @@ permalink: /datastructures/
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f8eef0;
-            color: #333333;
+            color: #000000; /* Set text color to black */
             margin: 0;
             padding: 0;
-        }
+}
         header {
             background-color: #fda6cd;
             padding: 20px;
