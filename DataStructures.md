@@ -79,7 +79,7 @@ permalink: /datastructures/
     <h1>Welcome to My Aesthetic Blog</h1>
 </header>
 
-<div id="contribution">
+<div id="contribution" style="color: black;">
     <h2>Overview: Data Structures Individual Contribution</h2>
     <p>
         My contribution to the data structures project was the ML Calorie Predictor and later the Servings of Fruits/Vegetables Suggestor. Both use decision tree ML accessed with the API and Model Code format from Trimester 2. Instead of solely relying on the .csv file, both features use a SQLite Database so the ability of CRUD functions including the currently functional get, delete, and post functions all apply to both ML features. Both of these features meet all the college board requirements for lists, student procedures, and dictionaries. These features contribute to the group Data Structures 2-Triangle Project on Staying Healthy and Fit.
